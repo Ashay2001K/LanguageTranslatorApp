@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248062854852",
+    "project_id": "translator-app-bc335",
+    "storage_bucket": "translator-app-bc335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248062854852:android:904ecc1f595496d5182b91",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248062854852-2h0336ti2l63agteabi2fii1ed3en38k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAaYXdWozLXfYfG6tObMTenpjzsNZFRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248062854852-2h0336ti2l63agteabi2fii1ed3en38k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
